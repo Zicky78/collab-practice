@@ -1,5 +1,6 @@
 .jumbotron{
     height: 400px;
-    background-image: url "../img/starbackground.jpg";
+    background: url("../img/starbackground.jpg") center center no-repeat;
+    background-size: cover;
 }
     
